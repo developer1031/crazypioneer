@@ -1,7 +1,8 @@
 ### WELCOME TO MY PROFILE 👋
-[![Header](https://raw.githubusercontent.com/crazypioneer/crazypioneer/blob/master/bk.jpg "Header")]
-https://github.com/crazypioneer/crazypioneer/blob/master/bk.jpg
+[![Header](https://raw.githubusercontent.com/crazypioneer/crazypioneer/main/bk.jpg)]
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=crazypioneer&show_icons=true&theme=algolia)
+
 ### MY SKILL ⚡
 ![](https://img.shields.io/badge/React-５年-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ReactNative-５年-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
