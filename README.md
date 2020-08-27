@@ -1,6 +1,6 @@
 ### WELCOME TO MY PROFILE 👋
 
-<img height="100" src="https://raw.githubusercontent.com/crazypioneer/crazypioneer/master/bk.jpg">
+<img height="350" style="object-fit: cover; width: 100%;" src="https://raw.githubusercontent.com/crazypioneer/crazypioneer/master/bk.jpg">
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=crazypioneer&show_icons=true&theme=algolia)
 
