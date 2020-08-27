@@ -1,5 +1,6 @@
 ### WELCOME TO MY PROFILE 👋
-![Header](https://raw.githubusercontent.com/crazypioneer/crazypioneer/master/bk.jpg)
+
+<img height="100" src="https://raw.githubusercontent.com/crazypioneer/crazypioneer/master/bk.jpg">
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=crazypioneer&show_icons=true&theme=algolia)
 
