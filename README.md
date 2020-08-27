@@ -1,5 +1,5 @@
 ### WELCOME TO MY PROFILE 👋
-[![Header](https://raw.githubusercontent.com/crazypioneer/crazypioneer/main/image/bk.png)](https://google.com)
+[![Header](https://raw.githubusercontent.com/crazypioneer/crazypioneer/image/bk.png)](https://google.com)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=crazypioneer&show_icons=true&theme=algolia)
 
 ### MY SKILL ⚡
