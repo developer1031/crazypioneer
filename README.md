@@ -2,9 +2,9 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=crazypioneer&show_icons=true&theme=algolia)
 ### MY SKILL ⚡
 ![](https://img.shields.io/badge/React-5年-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ReactNative-ReactNative-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Ruby on Rails-informational?style=flat&logo=ruby on rails&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ReactNative-5年-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Ruby-5年-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/RubyonRails-5年-informational?style=flat&logo=rubyonrails&logoColor=white&color=2bbc8a)
 
 <!--
 **crazypioneer/crazypioneer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
