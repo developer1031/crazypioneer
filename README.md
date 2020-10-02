@@ -6,7 +6,7 @@
 
 ### MY SKILL ⚡
 ![](https://img.shields.io/badge/React-５年-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ReactNative-５年-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/VueJS-５年-informational?style=flat&logo=vue&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Ruby-７年-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
 
 <!--
